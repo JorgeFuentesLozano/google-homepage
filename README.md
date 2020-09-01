@@ -1,0 +1,1 @@
+This is an assigment for "The Odin Project" to demonstrate the knowledge of HTML and CSS acquired during the course so far.
